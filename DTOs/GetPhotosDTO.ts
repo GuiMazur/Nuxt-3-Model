@@ -1,0 +1,1 @@
+interface GetPhotosDTO extends Array<Photo>{}
